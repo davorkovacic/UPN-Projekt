@@ -15,27 +15,3 @@ KOSOVNICA:
 
 4x Tipkalo
 
-6x 1K Upor
-
-
-
-
-PRIREDBENI SEZNAM:
-
-
-
-
-VEZALNA SHEMA:
-
-
-
-
-SLIKA VEZALNE SHEME:
-
-
-
-
-KODA :
-
-
-
