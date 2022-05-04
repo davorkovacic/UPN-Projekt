@@ -10,17 +10,32 @@ S tipkalom b1 naj se trajno prižge LED 1, s tipkalom b2 pa LED 2. S skupnim tip
 KOSOVNICA:
 
 1x Arduino Uno
+
 2x LED 
+
 4x Tipkalo
+
 6x 1K Upor
 
+
+
+
 PRIREDBENI SEZNAM:
+
+
 
 
 VEZALNA SHEMA:
 
 
+
+
 SLIKA VEZALNE SHEME:
 
 
+
+
 KODA :
+
+
+
