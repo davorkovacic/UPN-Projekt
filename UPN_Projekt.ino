@@ -5,7 +5,6 @@ int b4 = 7;
 int LED1 = 8;
 int LED2 = 9;
 void setup() {
-Serial.begin(9600);
 pinMode(LED1,OUTPUT);
 pinMode(LED2,OUTPUT);
 pinMode(b1,INPUT);
