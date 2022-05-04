@@ -15,3 +15,4 @@ KOSOVNICA:
 
 4x Tipkalo
 
+6x 1K Upor
