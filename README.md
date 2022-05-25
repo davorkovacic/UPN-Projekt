@@ -6,6 +6,10 @@ S tipkalom b1 naj se trajno prižge LED 1, s tipkalom b2 pa LED 2. S skupnim tip
 
 ![IMG_2991](https://user-images.githubusercontent.com/80972996/166657245-f743011c-8307-4142-9295-a192f9777087.jpeg)
 
+## Video
+https://user-images.githubusercontent.com/80972996/170231522-56b85947-1180-4956-bef4-58d0e1d97fc5.mp4
+
+
 
 ## KOSOVNICA:
 
