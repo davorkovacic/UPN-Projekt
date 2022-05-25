@@ -15,4 +15,5 @@ S tipkalom b1 naj se trajno prižge LED 1, s tipkalom b2 pa LED 2. S skupnim tip
 * 6x 1K Upor
 
 ## SHEMA:
-<img width="1195" alt="Screenshot 2022-05-25 at 11 02 48" src="https://user-images.githubusercontent.com/80972996/170225139-f5b82d35-2d55-44e6-8101-54175748620a.png">
+<img width="716" alt="Screenshot 2022-05-25 at 11 17 46" src="https://user-images.githubusercontent.com/80972996/170230559-c69df2c2-79fc-47e9-aeda-120131517063.png">
+<img width="807" alt="Screenshot 2022-05-25 at 11 30 15" src="https://user-images.githubusercontent.com/80972996/170230565-b343a034-82f9-4758-b8cf-842e0121577b.png">
