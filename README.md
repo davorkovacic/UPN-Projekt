@@ -25,7 +25,8 @@ https://user-images.githubusercontent.com/80972996/170231522-56b85947-1180-4956-
 <img width="532" alt="Screenshot 2022-05-25 at 11 44 45" src="https://user-images.githubusercontent.com/80972996/170233663-12a09204-57c0-4776-8194-ad28de8db2fd.png">
 
 ### IZHODI:
-<img width="532" alt="Screenshot 2022-05-25 at 11 44 45" src="https://user-images.githubusercontent.com/80972996/170234100-05f562dd-778d-41e5-ae35-f07a36fd2621.png">
+<img width="531" alt="Screenshot 2022-05-25 at 11 47 42" src="https://user-images.githubusercontent.com/80972996/172136217-ad19669e-2fb7-4c3c-b079-5fe398f40347.png">
+
 
 
 ## SHEMA:
